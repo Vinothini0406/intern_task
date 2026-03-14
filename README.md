@@ -12,7 +12,6 @@ This project is developed as part of an Intern / Beginner Backend Assignment.
 Python 3.14.2
 
 ---
-
 ## How to Run
 
 1. Install dependencies  
